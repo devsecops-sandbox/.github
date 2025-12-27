@@ -1,3 +1,3 @@
 # Home Hyper-V Lab
 
-Steps to setup lab using multipass - [Lab Build](https://github.com/devsecops-sandbox/hyperv-lab-multipass/blob/main/README.md)
+Set up home lab using [multipass](https://github.com/devsecops-sandbox/hyperv-lab-multipass/blob/main/README.md)
