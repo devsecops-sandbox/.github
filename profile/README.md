@@ -1,4 +1,4 @@
-![aadhilabs](..\resources\aadhilabs.svg "aadhilabs")
+![aadhilabs](https://github.com/devsecops-sandbox/.github/blob/main/resources/aadhilabs.svg "aadhilabs")
 
 # Home Lab Repositories
 * [Confluence Wiki](https://bijoyfrancis.atlassian.net/wiki/spaces/DevOpsTools/overview)
