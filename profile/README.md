@@ -17,3 +17,6 @@
 * [Nginx Proxy Manager](https://proxy.aadhilabs.com/)
 * [HashiCorp Vault](http://vault.aadhilabs.com/)
 * [Jenkins](https://jenkins.aadhilabs.com/)
+
+## Network Diagram
+![Home Lab](https://github.com/devsecops-sandbox/.github/blob/main/resources/Home-Lab.svg "Home Lab")
